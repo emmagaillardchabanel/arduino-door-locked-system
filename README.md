@@ -5,7 +5,7 @@
 ## 📌 Circuit Overview
 ![Circuit Schematic](./tinkercard-door-locked-system.png)
 
-🔗 **Test the live simulation:** [](https://www.tinkercad.com/things/1FGRGS8sR6L-door-locked-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
+🔗 **[Test the live simulation on Tinkercad](https://www.tinkercad.com/things/1FGRGS8sR6L-door-locked-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)**
 
 ## 🚀 Features
 - **Custom Password Engine:** Securely handles input matching, evaluation, and dynamic key appends using overloaded operators (`<<`).
